@@ -7,6 +7,10 @@ Scikit-Learn Basics: Implement classic machine learning algorithms like regressi
 Deep Learning with PyTorch: Build and train neural networks for tasks like image recognition and natural language processing.
 Real-World Applications: Work on projects and datasets to bridge the gap between theory and practice.
 Reproducible Environment: Includes environment setup guides for easy replication.
+
+In addition to that I have added datascience books specifically machine learning and AI that can guide you to boost your career 
+its in DataScienceBook folder.Just download the book of your interest and lock in.
+
 Prerequisites:
 Basic knowledge of Python programming.
 Familiarity with machine learning concepts is a plus.
